@@ -7,6 +7,7 @@ class test{
 //new comment in master
 
  public void print(){
-	System.out.println("ABCDEF");
+	System.out.println("DEF");
+	System.out.println("ABC");
 }
 }
