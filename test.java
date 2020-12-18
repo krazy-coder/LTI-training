@@ -2,6 +2,6 @@ class test{
      int id;
      String name;
  public void print(){
-	System.out.println("ABC");
+	System.out.println("ABCDEF");
 }
 }
